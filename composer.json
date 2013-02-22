@@ -1,0 +1,17 @@
+{
+    "name": "voronenko/yii_helper",
+    "description": "Shared controls applicable to multiple projects",
+    "version":"1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.1.0",
+        "voronenko/yii-constants":"*"  
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
+    }
+}
